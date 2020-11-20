@@ -31,14 +31,3 @@ Sushant 747's Guide (Country dependant - may need VPN) - https://sushant747.gitb
 From <https://academy.tcm-sec.com/courses/1154361/lectures/24794930> 
 
 
-SUMMARY OF QUALIFICATIONS
- 
-	Complex Problem Solving and Trouble Shooting
-	Proficiency in Windows, Networking & Penetration Testing. 
-	10-15 years of professional work experience
-	Excellent Communication Skills
-	Highly detail-oriented individual 
-	Critical Thinking
-	Ability to learn quickly.
- 
-CERTIFICATE/LICENSE
