@@ -1,11 +1,7 @@
 # Windows-Privillage-Esclation-Folder
 
 Resources:
-Course Discord
 
-Welcome to the course.
-
- I truly hope you enjoy it and learn from it!
 Please see the attached link for a list of all resources used in the course. 
 
 A very special thanks goes to Grimmie for putting this together! <3
